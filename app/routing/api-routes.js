@@ -1,4 +1,4 @@
-var friendData 		= require('../data/friends.js');
+var friends		= require('../data/friends.js');
 var path 			= require('path');
 
 // API GET Requests - when users "visit" a page.
@@ -32,7 +32,7 @@ module.exports = function(app){
 		var totalDifference = 0;
 
 		//loop through the friends data array of objects to get each friends scores
-		for(var i = 0; i < [friends].length-1; i++){
+		for(var i = 0; i < friends.length-1; i++){
 			console.log(friends[i].name);
 			totalDifference = 0;
 
