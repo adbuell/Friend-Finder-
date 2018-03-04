@@ -28,6 +28,7 @@ module.exports = function(app){
 		var usrImage 	= usrData.image;
 		var usrScores 	= usrData.scores;
 
+
 		var totalDifference = 0;
 
 		//loop through the friends data array of objects to get each friends scores

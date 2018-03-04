@@ -1,14 +1,9 @@
-=
-// ===============================================================================
-// DATA
-// Below data will hold all of the reserved tables.
-// Initially we just set it equal to a "dummy" customer.
-// But you could have it be an empty array as well.
-// ===============================================================================
+
+
 var friends = [
   {
       "name":"Kasey",
-      "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+      "photo":"https://fthmb.tqn.com/KCsrYJWtkPlYuPwP39YK5KOM31I=/960x0/filters:no_upscale()/jack-russel-dog-555907555-5873e2d55f9b584db35c28df.jpg",
       "scores":[
          5,
          1,
@@ -24,7 +19,7 @@ var friends = [
       },
   {
   "name":"Sara",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "photo":"https://fthmb.tqn.com/KCsrYJWtkPlYuPwP39YK5KOM31I=/960x0/filters:no_upscale()/jack-russel-dog-555907555-5873e2d55f9b584db35c28df.jpg",
   "scores":[
      5,
      1,
@@ -40,7 +35,7 @@ var friends = [
 },
 {
   "name":"Liz",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "photo":"https://fthmb.tqn.com/KCsrYJWtkPlYuPwP39YK5KOM31I=/960x0/filters:no_upscale()/jack-russel-dog-555907555-5873e2d55f9b584db35c28df.jpg",
   "scores":[
      9,
      1,
@@ -56,7 +51,7 @@ var friends = [
 },
 {
   "name":"Jenny",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "photo":"https://fthmb.tqn.com/KCsrYJWtkPlYuPwP39YK5KOM31I=/960x0/filters:no_upscale()/jack-russel-dog-555907555-5873e2d55f9b584db35c28df.jpg",
   "scores":[
      5,
      1,
@@ -72,7 +67,7 @@ var friends = [
 },
 {
   "name":"Angie",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "photo":"https://fthmb.tqn.com/KCsrYJWtkPlYuPwP39YK5KOM31I=/960x0/filters:no_upscale()/jack-russel-dog-555907555-5873e2d55f9b584db35c28df.jpg",
   "scores":[
      5,
      1,
@@ -88,7 +83,7 @@ var friends = [
 },
 {
   "name":"Becca",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "photo":"https://fthmb.tqn.com/KCsrYJWtkPlYuPwP39YK5KOM31I=/960x0/filters:no_upscale()/jack-russel-dog-555907555-5873e2d55f9b584db35c28df.jpg",
   "scores":[
      5,
      1,
@@ -104,7 +99,7 @@ var friends = [
 },
 {
   "name":"Nicolettte",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "photo":"https://fthmb.tqn.com/KCsrYJWtkPlYuPwP39YK5KOM31I=/960x0/filters:no_upscale()/jack-russel-dog-555907555-5873e2d55f9b584db35c28df.jpg",
   "scores":[
      5,
      1,
@@ -120,7 +115,7 @@ var friends = [
 },
 {
   "name":"Audra",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "photo":"https://fthmb.tqn.com/KCsrYJWtkPlYuPwP39YK5KOM31I=/960x0/filters:no_upscale()/jack-russel-dog-555907555-5873e2d55f9b584db35c28df.jpg",
   "scores":[
      5,
      1,
@@ -136,7 +131,7 @@ var friends = [
 },
 {
   "name":"Amber",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "photo":"https://fthmb.tqn.com/KCsrYJWtkPlYuPwP39YK5KOM31I=/960x0/filters:no_upscale()/jack-russel-dog-555907555-5873e2d55f9b584db35c28df.jpg",
   "scores":[
      5,
      1,
@@ -152,7 +147,7 @@ var friends = [
 },
 {
   "name":"Mark",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "photo":"https://fthmb.tqn.com/KCsrYJWtkPlYuPwP39YK5KOM31I=/960x0/filters:no_upscale()/jack-russel-dog-555907555-5873e2d55f9b584db35c28df.jpg",
   "scores":[
      5,
      1,
@@ -170,15 +165,3 @@ var friends = [
 
 // Note how we export the array. This makes it accessible to other files using require.
 module.exports = friends;
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
