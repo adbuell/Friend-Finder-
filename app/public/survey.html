@@ -184,7 +184,7 @@
 	      </div>
 	      <div class="modal-body">
 	        <h2 id="matchName"></h2>
-	        <img id="matchImg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg" alt="" style="max-width: 400px">
+	        <img id="matchImg" src="" alt="" style="max-width: 400px">
 	      </div>
 	      <div class="modal-footer">
 	        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -236,9 +236,11 @@
       var currentURL = window.location.origin;
       // AJAX post the data to the friends API.
       $.post(currentURL + "/api/friends", userData, function(data){
+
+				console.log("data",data)
         // Grab the result from the AJAX post so that the best match's name and photo are displayed.
         $("#matchName").text(data.name);
-        $('#matchImg').attr("src", data.photo);
+        $('#matchImg').attr("src", data.image);
         // Show the modal with the best match
         $("#resultsModal").modal('toggle');
       });

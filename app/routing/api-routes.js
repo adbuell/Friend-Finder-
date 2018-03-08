@@ -42,17 +42,19 @@ module.exports = function(app){
 				// We calculate the difference between the scores and sum them into the totalDifference
 				totalDifference += Math.abs(parseInt(usrScores[j]) - parseInt(friends[i].scores[j]));
 				// If the sum of differences is less then the differences of the current "best match"
-				if (totalDifference <= greatMatch.friendDifference){
+				if (totalDifference <= greatMatch.matchDifference){
 
 					// Reset the bestMatch to be the new friend.
 					greatMatch.name = friends[i].name;
-					greatMatch.photo = friends[i].photo;
+					greatMatch.image = friends[i].image;
 					greatMatch.matchDifference = totalDifference;
+					console.log("greatMatch",greatMatch)
 				}
 			}
 		}
 
 		friends.push(usrData);
+		console.log('great',greatMatch)
 
 		res.json(greatMatch);
 	});

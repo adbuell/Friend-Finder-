@@ -3,7 +3,7 @@
 var friends = [
   {
       "name":"Kasey",
-      "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg",
       "scores":[
          5,
          1,
@@ -19,7 +19,7 @@ var friends = [
       },
   {
   "name":"Sara",
-  "photo":"https://fthmb.tqn.com/KCsrYJWtkPlYuPwP39YK5KOM31I=/960x0/filters:no_upscale()/jack-russel-dog-555907555-5873e2d55f9b584db35c28df.jpg",
+  "image":"https://fthmb.tqn.com/KCsrYJWtkPlYuPwP39YK5KOM31I=/960x0/filters:no_upscale()/jack-russel-dog-555907555-5873e2d55f9b584db35c28df.jpg",
   "scores":[
      5,
      1,
@@ -35,7 +35,7 @@ var friends = [
 },
 {
   "name":"Liz",
-  "photo":"http://d3544la1u8djza.cloudfront.net/APHI/Blog/2016/August/domestic+longhair+cats+personality+traits.jpg",
+  "image":"http://d3544la1u8djza.cloudfront.net/APHI/Blog/2016/August/domestic+longhair+cats+personality+traits.jpg",
   "scores":[
      9,
      1,
@@ -51,7 +51,7 @@ var friends = [
 },
 {
   "name":"Jenny",
-  "photo":"https://littledogtips.com/wp-content/uploads/2016/12/hydrocephalus-chihuahua.jpg",
+  "image":"https://littledogtips.com/wp-content/uploads/2016/12/hydrocephalus-chihuahua.jpg",
   "scores":[
      5,
      1,
@@ -67,7 +67,7 @@ var friends = [
 },
 {
   "name":"Angie",
-  "photo":"https://vetstreet.brightspotcdn.com/dims4/default/10dae76/2147483647/thumbnail/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F3a%2F54%2F5ae8bfcc41b381c27a792e0dd891%2FAP-KWDHXS-645sm8113.jpg",
+  "image":"https://vetstreet.brightspotcdn.com/dims4/default/10dae76/2147483647/thumbnail/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F3a%2F54%2F5ae8bfcc41b381c27a792e0dd891%2FAP-KWDHXS-645sm8113.jpg",
   "scores":[
      5,
      1,
@@ -83,7 +83,7 @@ var friends = [
 },
 {
   "name":"Becca",
-  "photo":"http://www.differencebetween.info/sites/default/files/images/1/chipmunk.jpg",
+  "image":"http://www.differencebetween.info/sites/default/files/images/1/chipmunk.jpg",
   "scores":[
      5,
      1,
@@ -99,7 +99,7 @@ var friends = [
 },
 {
   "name":"Nicolettte",
-  "photo":"https://i.pinimg.com/736x/5f/16/29/5f16294450b32e4d0669d03f51e29002--funny-animal-pics-funny-animals.jpg",
+  "image":"https://i.pinimg.com/736x/5f/16/29/5f16294450b32e4d0669d03f51e29002--funny-animal-pics-funny-animals.jpg",
   "scores":[
      5,
      1,
@@ -115,7 +115,7 @@ var friends = [
 },
 {
   "name":"Audra",
-  "photo":"https://ksr-ugc.imgix.net/assets/014/297/885/c55e287ca45b7cc4ae6a088adbc98043_original.jpg?crop=faces&w=1552&h=873&fit=crop&v=1477663599&auto=format&q=92&s=ced08330cfc597cc7b4fc5f49e28ec2e",
+  "image":"https://ksr-ugc.imgix.net/assets/014/297/885/c55e287ca45b7cc4ae6a088adbc98043_original.jpg?crop=faces&w=1552&h=873&fit=crop&v=1477663599&auto=format&q=92&s=ced08330cfc597cc7b4fc5f49e28ec2e",
   "scores":[
      5,
      1,
@@ -131,7 +131,7 @@ var friends = [
 },
 {
   "name":"Amber",
-  "photo":"https://amp.businessinsider.com/images/57d1d20ab996eb94008b6c4f-750-563.jpg",
+  "image":"https://amp.businessinsider.com/images/57d1d20ab996eb94008b6c4f-750-563.jpg",
   "scores":[
      5,
      1,
@@ -147,7 +147,7 @@ var friends = [
 },
 {
   "name":"Mark",
-  "photo":"https://ottertalker.files.wordpress.com/2017/04/fingers.jpg?w=676",
+  "image":"https://ottertalker.files.wordpress.com/2017/04/fingers.jpg?w=676",
   "scores":[
      5,
      1,
